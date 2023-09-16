@@ -6,4 +6,7 @@ export const globalStyles = StyleSheet.create({
   backgroundWhite: {
     backgroundColor: '#ffffff',
   },
+  flex: {
+    flex: 1,
+  },
 });
